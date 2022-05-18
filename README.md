@@ -8,3 +8,4 @@
  git init 
   git push -u origin main
   git pull https://github.com/Zadrewells/alx-pre_course.git
+git commit - "Starting to code today, so cool"
