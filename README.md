@@ -8,3 +8,4 @@
  git init 
   git remote add origin https://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@github.com/Zadrewells/alx_pre_course.git
   git push -u origin main
+  git pull 
