@@ -5,7 +5,7 @@
  git add .
   git commit -m 'My first commit'
   git push
- git init 
-  git push -u origin main
-  git pull https://github.com/Zadrewells/alx-pre_course.git
+ git add .
 git commit - "Starting to code today, so cool"
+git push
+
