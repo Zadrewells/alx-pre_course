@@ -5,7 +5,7 @@
  git add .
   git commit -m 'My first commit'
   git push
+  cat 0x01-git
  git add .
 git commit - "Starting to code today, so cool"
 git push -u origin main
-
