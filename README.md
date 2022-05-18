@@ -7,5 +7,5 @@
   git push
  git add .
 git commit - "Starting to code today, so cool"
-git push -u master
+git push -u origin main
 
